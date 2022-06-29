@@ -20,7 +20,6 @@ For the task of news classification with machine learning, I have collected a da
 Data preprocessing is the process of transforming raw data into an understandable format. It is also an important step in data mining as we cannot work with raw data. The quality of the data should be checked before applying machine learning or data mining algorithms.
 # Learning Outcome 
 By doing this project I got to know about the potential of Machine learning in improving our lifestyle. I got to know about various python libraries which are very useful. I also learned about various web technologies and because of them this project was possible.
-# Milestones
 # Outcome- 
 The model is able to predict and classify the news text into 5 unique categories(i.e. political , business, technology, sports and entertainment ).
 # Improvement - 
